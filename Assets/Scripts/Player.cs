@@ -1,55 +1,61 @@
 using System;
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class Player : MonoBehaviour {
 
+
     public static Player Instance { get; private set; }
 
-    public EventHandler<OnSelectedCounterChangedEventArgs> OnSelectedCounterChanged;
-    public class OnSelectedCounterChangedEventArgs : EventArgs
-    {
+    public event EventHandler<OnSelectedCounterChangedEventArgs> OnSelectedCounterChanged;
+    public class OnSelectedCounterChangedEventArgs : EventArgs {
         public ClearCounter selectedCounter;
     }
 
+
     [SerializeField] private float moveSpeed = 7f;
     [SerializeField] private GameInput gameInput;
+    [SerializeField] private LayerMask countersLayerMask;
+
 
     private bool isWalking;
     private Vector3 lastInteractDir;
     private ClearCounter selectedCounter;
 
+
     private void Awake()
     {
         if (Instance != null)
         {
-            Debug.Log("There's more than one Player instance.");
+            Debug.LogError("There is more than one Player instance");
         }
-
         Instance = this;
     }
 
-    private void Start ()
+    private void Start()
     {
-        gameInput.OnInteractAction += GameInput_InInteraction;
+        gameInput.OnInteractAction += GameInput_OnInteractAction;
     }
 
-    private void GameInput_InInteraction(object sender, EventArgs e)
+    private void GameInput_OnInteractAction(object sender, System.EventArgs e)
     {
+
         if (selectedCounter != null)
         {
             selectedCounter.Interact();
         }
     }
 
-    private void Update() {
+    private void Update()
+    {
         HandleMovement();
-        HandleInteraction();
-
+        HandleInteractions();
     }
 
-    private void HandleInteraction()
+    private void HandleInteractions()
     {
-        Vector2 inputVector = gameInput.GetMovementVectorNormalized();
+       Vector2 inputVector = gameInput.GetMovementVectorNormalized();
         Vector3 moveDir = new Vector3(inputVector.x, 0f, inputVector.y);
         float interactDistance = 2f;
 
@@ -59,7 +65,7 @@ public class Player : MonoBehaviour {
             lastInteractDir = moveDir;
         }
 
-        if (Physics.Raycast(transform.position, lastInteractDir, out RaycastHit raycastHit, interactDistance))
+        if (Physics.Raycast(transform.position, lastInteractDir, out RaycastHit raycastHit, interactDistance, countersLayerMask))
         {
             if (raycastHit.transform.TryGetComponent(out ClearCounter clearCounter))
             {
@@ -68,12 +74,11 @@ public class Player : MonoBehaviour {
                 // if this clearcounter is the one at front is different from the one selected
                 if (clearCounter != selectedCounter)
                 {
+                    //Debug.Log("clearcounter inside player cs " + clearCounter);
+                    //Debug.Log("selectedcounter inside player cs " + selectedCounter);
                     // then select the selected to this one
                     SetSelectedCounter(clearCounter);
-                }
-                else
-                {
-                    SetSelectedCounter(null);
+
                 }
             }
             else
@@ -81,8 +86,12 @@ public class Player : MonoBehaviour {
                 SetSelectedCounter(null);
             }
         }
-    }
+        else
+        {
+            SetSelectedCounter(null);
+        }
 
+    }
     private void HandleMovement()
     {
         var inputVector = gameInput.GetMovementVectorNormalized();

@@ -1,6 +1,4 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
+
 using UnityEngine;
 
 public class SelectedCounterVisual : MonoBehaviour
@@ -15,12 +13,8 @@ public class SelectedCounterVisual : MonoBehaviour
 
     private void Player_OnSelectedCounterChanged(object sender, Player.OnSelectedCounterChangedEventArgs e)
     {
-        Debug.Log("-");
-
         if (e.selectedCounter == clearCounter)
         {
-            Debug.Log("-");
-
             Show();
         }
         else
