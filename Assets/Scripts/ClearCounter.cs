@@ -15,12 +15,27 @@ public class ClearCounter : BaseCounter {
             if (player.HasKitchenObject())
             {
                 // Player is carrying something
+
+                // player pass the item to the counter
                 player.GetKitchenObject().SetKitchenObjectParent(this);
                 
             }
             else
             {
-                // there is a kitchenObject here
+                // Player not carrying anything
+            }
+        }
+        else
+        {
+            // there is a kitchenObject
+            if(player.HasKitchenObject())
+            {
+                // player is carrying something dont do anything
+            }
+            else
+            {
+                // give the object to player
+                GetKitchenObject().SetKitchenObjectParent(player);
             }
         }
     }

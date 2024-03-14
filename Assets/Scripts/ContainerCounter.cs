@@ -15,7 +15,7 @@ public class ContainerCounter : BaseCounter
         // This code will set a object on top of the prefab when kitchenObject is null else give it to player
         //if (!HasKitchenObject())
         //{
-        //    Transform kitchenObjectTransform = Instantiate(kitchenObjectScriptableObject.prefab);
+        //    Transform kitchenObjectTransform = Instantiate(kitchenObjectScriptableObject.prefab, counterTopPoint);
         //    kitchenObjectTransform.GetComponent<KitchenObject>().SetKitchenObjectParent(this);
         //}
         //else
@@ -26,10 +26,14 @@ public class ContainerCounter : BaseCounter
         //}
         #endregion
 
-        Transform kitchenObjectTransform = Instantiate(kitchenObjectScriptableObject.prefab);
-         kitchenObjectTransform.GetComponent<KitchenObject>().SetKitchenObjectParent(player);
+        if (!player.HasKitchenObject())
+        {
+            // if player dont have anything give kitchenObject to player
 
-        OnPlayerGrabbedObject?.Invoke(this, EventArgs.Empty);
+            KitchenObject.SpawnKitchenObject(kitchenObjectScriptableObject, player);
+
+            OnPlayerGrabbedObject?.Invoke(this, EventArgs.Empty);
+        }
     }
 
 }
