@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scripts\KitchenObjectScriptableObject.cs" />
     <Compile Include="Assets\PlayerInputActions.cs" />
     <Compile Include="Assets\Scripts\GameInput.cs" />
+    <Compile Include="Assets\Scripts\ContainerCounterVisual.cs" />
     <Compile Include="Assets\Scripts\ClearCounter.cs" />
     <Compile Include="Assets\Scripts\KitchenObject.cs" />
     <Compile Include="Assets\Scripts\BaseCounter.cs" />
