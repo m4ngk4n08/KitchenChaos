@@ -3,28 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\KitchenChaos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|c:\\users\\admin\\kitchenchaos\\assets\\scripts\\cuttingcountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cuttingcountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\cuttingcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cuttingcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|c:\\users\\admin\\kitchenchaos\\assets\\scripts\\progressbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\progressbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\containercounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\containercounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|c:\\users\\admin\\kitchenchaos\\assets\\scripts\\cuttingcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cuttingcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\cuttingrecepieso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cuttingrecepieso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\selectedcountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectedcountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\clearcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clearcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\kitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\containercountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\containercountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|c:\\users\\admin\\kitchenchaos\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\kitchenobjectscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kitchenobjectscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\kitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\basecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,16 +55,8 @@
       "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ikitchenobjectparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\selectedcountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectedcountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\kitchenobjectscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kitchenobjectscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\containercountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\containercountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,11 +70,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 777,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CuttingCounterVisual.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\CuttingCounterVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CuttingCounterVisual.cs",
+              "ToolTip": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\CuttingCounterVisual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CuttingCounterVisual.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:42:40.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProgressBarUI.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\ProgressBarUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProgressBarUI.cs",
+              "ToolTip": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\ProgressBarUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProgressBarUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:14:00.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CuttingRecepieSO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\CuttingRecepieSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CuttingRecepieSO.cs",
+              "ToolTip": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\CuttingRecepieSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CuttingRecepieSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:47:32.323Z"
             },
             {
               "$type": "Document",
@@ -72,14 +122,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\CuttingCounter.cs",
               "ToolTip": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\CuttingCounter.cs",
               "RelativeToolTip": "Assets\\Scripts\\CuttingCounter.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCoAAAAFAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAowEcAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T10:18:41.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "GameInput.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\GameInput.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameInput.cs",
@@ -87,12 +137,11 @@
               "RelativeToolTip": "Assets\\Scripts\\GameInput.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T09:05:59.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T09:05:59.82Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ClearCounter.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\ClearCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ClearCounter.cs",
@@ -100,51 +149,47 @@
               "RelativeToolTip": "Assets\\Scripts\\ClearCounter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T13:24:24.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T13:24:24.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ContainerCounter.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\ContainerCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ContainerCounter.cs",
               "ToolTip": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\ContainerCounter.cs",
               "RelativeToolTip": "Assets\\Scripts\\ContainerCounter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T14:08:54.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-13T14:08:54.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "BaseCounter.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\BaseCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BaseCounter.cs",
               "ToolTip": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\BaseCounter.cs",
               "RelativeToolTip": "Assets\\Scripts\\BaseCounter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAkAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T14:18:24.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-13T14:18:24.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
               "ToolTip": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\Player.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA5wC0AAAAkAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAmwC0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T16:26:57.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T16:26:57.898Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "ContainerCounterVisual.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\ContainerCounterVisual.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ContainerCounterVisual.cs",
@@ -162,52 +207,49 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\KitchenObjectScriptableObject.cs",
               "ToolTip": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\KitchenObjectScriptableObject.cs",
               "RelativeToolTip": "Assets\\Scripts\\KitchenObjectScriptableObject.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T14:37:50.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "IKitchenObjectParent.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\IKitchenObjectParent.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IKitchenObjectParent.cs",
               "ToolTip": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\IKitchenObjectParent.cs",
               "RelativeToolTip": "Assets\\Scripts\\IKitchenObjectParent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T12:34:04.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-13T12:34:04.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "KitchenObject.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\KitchenObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\KitchenObject.cs",
               "ToolTip": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\KitchenObject.cs",
               "RelativeToolTip": "Assets\\Scripts\\KitchenObject.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAcwCwAAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T15:14:00.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T15:14:00.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "SelectedCounterVisual.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\SelectedCounterVisual.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SelectedCounterVisual.cs",
               "ToolTip": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\SelectedCounterVisual.cs",
               "RelativeToolTip": "Assets\\Scripts\\SelectedCounterVisual.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T14:52:30.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T14:52:30.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "PlayerAnimator.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\PlayerAnimator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAnimator.cs",
