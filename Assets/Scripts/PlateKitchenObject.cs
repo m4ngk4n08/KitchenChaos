@@ -1,9 +1,16 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlateKitchenObject : KitchenObject {
+public class PlateKitchenObject : KitchenObject 
+{
 
+    public event EventHandler<OnIngredientAddedEventArgs> OnIngredientAdded;
+    public class OnIngredientAddedEventArgs : EventArgs
+    {
+        public KitchenObjectScriptableObject kitchenObjectSO;
+    }
 
     private List<KitchenObjectScriptableObject> kitchenObjectList;
     [SerializeField] private List<KitchenObjectScriptableObject> validKitchenObjectSOList;
@@ -23,6 +30,17 @@ public class PlateKitchenObject : KitchenObject {
         }
 
         kitchenObjectList.Add(kitchenObjectScriptableObject);
+
+        OnIngredientAdded?.Invoke(this, new OnIngredientAddedEventArgs
+        {
+            kitchenObjectSO = kitchenObjectScriptableObject
+        });
+
         return true;
+    }
+
+    public List<KitchenObjectScriptableObject> GetKitchenObjectScriptableObjectsList()
+    {
+        return kitchenObjectList;
     }
 }
