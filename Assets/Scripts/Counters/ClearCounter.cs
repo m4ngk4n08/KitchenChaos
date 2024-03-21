@@ -30,7 +30,19 @@ public class ClearCounter : BaseCounter {
             // there is a kitchenObject
             if(player.HasKitchenObject())
             {
-                // player is carrying something dont do anything
+                // player is carrying something 
+                if (player.GetKitchenObject() is PlateKitchenObject)
+                {
+                    // Player is holding a plate
+                    PlateKitchenObject plateKitchenObject = player.GetKitchenObject() as PlateKitchenObject;
+                    // Pass the kitchenObject to plate
+                    if (plateKitchenObject.TryAddIngredient(GetKitchenObject().GetKitchenObjectSO()))
+                    {
+                        // Destroy kitchenObject on the counter
+                        GetKitchenObject().DestroySelf();
+                    }
+                }
+
             }
             else
             {
