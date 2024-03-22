@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\KitchenChaos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\platesiconui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platesiconui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|c:\\users\\admin\\kitchenchaos\\assets\\scripts\\platesiconsingleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platesiconsingleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\platesiconui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platesiconui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\selectedcountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectedcountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\platekitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,16 +59,8 @@
       "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ikitchenobjectparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\counters\\platescounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\platescounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\selectedcountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectedcountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 777,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,33 +134,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PlatesIconSingleUI.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\PlatesIconSingleUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlatesIconSingleUI.cs",
               "ToolTip": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\PlatesIconSingleUI.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlatesIconSingleUI.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T13:51:25.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PlatesIconUI.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\PlatesIconUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlatesIconUI.cs",
               "ToolTip": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\PlatesIconUI.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlatesIconUI.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAfAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T13:42:39.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PlateCompleteVisual.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\PlateCompleteVisual.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlateCompleteVisual.cs",
@@ -172,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ClearCounter.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\Counters\\ClearCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\ClearCounter.cs",
@@ -184,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PlateKitchenObject.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\PlateKitchenObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlateKitchenObject.cs",
@@ -196,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CuttingCounter.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\Counters\\CuttingCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\CuttingCounter.cs",
@@ -208,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "PlatesCounterVisual.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\Counters\\PlatesCounterVisual.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\PlatesCounterVisual.cs",
@@ -220,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "PlatesCounter.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\Counters\\PlatesCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\PlatesCounter.cs",
@@ -256,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "BaseCounter.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\Counters\\BaseCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\BaseCounter.cs",
@@ -264,7 +264,8 @@
               "RelativeToolTip": "Assets\\Scripts\\Counters\\BaseCounter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T11:17:57.696Z"
+              "WhenOpened": "2024-03-19T11:17:57.696Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -304,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "StoveCounter.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\Counters\\StoveCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\StoveCounter.cs",
@@ -312,7 +313,8 @@
               "RelativeToolTip": "Assets\\Scripts\\Counters\\StoveCounter.cs",
               "ViewState": "AQIAAIsAAAAAAAAAAAAcwJ8AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T10:48:37.443Z"
+              "WhenOpened": "2024-03-19T10:48:37.443Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -364,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "GameInput.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\GameInput.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameInput.cs",
@@ -400,15 +402,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
               "ToolTip": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\Player.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AQIAAKAAAAAAAAAAAAAYwLcAAAAJAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAIAwwBcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T16:26:57.898Z"
+              "WhenOpened": "2024-03-11T16:26:57.898Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -436,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "IKitchenObjectParent.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\IKitchenObjectParent.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IKitchenObjectParent.cs",
@@ -448,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "KitchenObject.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\KitchenObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\KitchenObject.cs",
@@ -460,15 +463,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 3,
               "Title": "SelectedCounterVisual.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\SelectedCounterVisual.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SelectedCounterVisual.cs",
               "ToolTip": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\SelectedCounterVisual.cs",
               "RelativeToolTip": "Assets\\Scripts\\SelectedCounterVisual.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T14:52:30.253Z"
+              "WhenOpened": "2024-03-11T14:52:30.253Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
