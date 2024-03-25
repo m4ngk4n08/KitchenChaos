@@ -270,6 +270,21 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1231423776623778305, guid: 93758f35f00a15a43a04801ccf91360b,
         type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1231423776623778305, guid: 93758f35f00a15a43a04801ccf91360b,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1231423776623778305, guid: 93758f35f00a15a43a04801ccf91360b,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1231423776623778305, guid: 93758f35f00a15a43a04801ccf91360b,
+        type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -318,6 +333,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1231423776623778305, guid: 93758f35f00a15a43a04801ccf91360b,
+        type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2093040859571611389, guid: 93758f35f00a15a43a04801ccf91360b,
         type: 3}
       propertyPath: m_Name
@@ -364,9 +384,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 560618a818902e646839d1535c7d179c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  counterTopPoint: {fileID: 1655406567564401721}
   kitchenObjectScriptableObject: {fileID: 11400000, guid: a10bcf0b6d2e4bf49bad12d15a21cbac,
     type: 2}
-  counterTopPoint: {fileID: 1655406567564401721}
 --- !u!4 &7759347988821413763 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1231423776623778305, guid: 93758f35f00a15a43a04801ccf91360b,

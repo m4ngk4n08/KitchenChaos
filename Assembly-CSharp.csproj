@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\SelectedCounterVisual.cs" />
+    <Compile Include="Assets\Scripts\Counters\DeliveryCounter.cs" />
     <Compile Include="Assets\Scripts\Counters\BaseCounter.cs" />
     <Compile Include="Assets\Scripts\Counters\ContainerCounterVisual.cs" />
     <Compile Include="Assets\Scripts\ProgressBarUI.cs" />
@@ -85,6 +86,7 @@
     <Compile Include="Assets\Scripts\Counters\PlatesCounter.cs" />
     <Compile Include="Assets\Scripts\GameInput.cs" />
     <Compile Include="Assets\Scripts\KitchenObject.cs" />
+    <Compile Include="Assets\Scripts\DeliveryManager.cs" />
     <Compile Include="Assets\Scripts\Counters\PlatesCounterVisual.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjects\CuttingRecepieSO.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjects\BurningRecepieSO.cs" />
