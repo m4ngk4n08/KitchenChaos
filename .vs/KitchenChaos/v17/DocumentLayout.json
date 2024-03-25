@@ -3,11 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\KitchenChaos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|c:\\users\\admin\\kitchenchaos\\assets\\scripts\\counters\\deliverycounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|c:\\users\\admin\\kitchenchaos\\assets\\scripts\\deliverymanagerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deliverymanagerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\deliverymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deliverymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\ihasprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ihasprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\scriptableobjects\\recepielistso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\recepielistso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\counters\\deliverycounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\deliverycounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|c:\\users\\admin\\kitchenchaos\\assets\\scripts\\platesiconui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\scriptableobjects\\recepieso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\recepieso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\platesiconui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platesiconui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -51,10 +75,6 @@
       "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\platescountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\counters\\basecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\basecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -73,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\progressbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\progressbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\ihasprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ihasprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\Admin\\KitchenChaos\\assets\\scripts\\counters\\stovecountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -139,19 +155,68 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DeliveryManagerUI.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\DeliveryManagerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeliveryManagerUI.cs",
+              "ToolTip": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\DeliveryManagerUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeliveryManagerUI.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:09:22.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecepieListSO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\ScriptableObjects\\RecepieListSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\RecepieListSO.cs",
+              "ToolTip": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\ScriptableObjects\\RecepieListSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\RecepieListSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:11:55.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecepieSO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\ScriptableObjects\\RecepieSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\RecepieSO.cs",
+              "ToolTip": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\ScriptableObjects\\RecepieSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\RecepieSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:05:18.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeliveryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\DeliveryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeliveryManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\DeliveryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeliveryManager.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAIwGEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:04:22.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DeliveryCounter.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\Counters\\DeliveryCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\DeliveryCounter.cs",
               "ToolTip": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\Counters\\DeliveryCounter.cs",
               "RelativeToolTip": "Assets\\Scripts\\Counters\\DeliveryCounter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T09:27:53.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T09:27:53.244Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "PlatesIconSingleUI.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\PlatesIconSingleUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlatesIconSingleUI.cs",
@@ -163,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "PlatesIconUI.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\PlatesIconUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlatesIconUI.cs",
@@ -171,12 +236,11 @@
               "RelativeToolTip": "Assets\\Scripts\\PlatesIconUI.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAgwBYAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T13:42:39.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-21T13:42:39.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "PlateCompleteVisual.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\PlateCompleteVisual.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlateCompleteVisual.cs",
@@ -188,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "ClearCounter.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\Counters\\ClearCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\ClearCounter.cs",
@@ -200,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "PlateKitchenObject.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\PlateKitchenObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlateKitchenObject.cs",
@@ -212,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "CuttingCounter.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\Counters\\CuttingCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\CuttingCounter.cs",
@@ -224,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "PlatesCounterVisual.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\Counters\\PlatesCounterVisual.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\PlatesCounterVisual.cs",
@@ -236,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "PlatesCounter.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\Counters\\PlatesCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\PlatesCounter.cs",
@@ -248,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 2,
               "Title": "IHasProgress.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\IHasProgress.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IHasProgress.cs",
@@ -256,11 +320,12 @@
               "RelativeToolTip": "Assets\\Scripts\\IHasProgress.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T14:45:21.748Z"
+              "WhenOpened": "2024-03-19T14:45:21.748Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "StoveCounterVisual.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\Counters\\StoveCounterVisual.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\StoveCounterVisual.cs",
@@ -272,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "BaseCounter.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\Counters\\BaseCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\BaseCounter.cs",
@@ -284,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "ProgressBarUI.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\ProgressBarUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ProgressBarUI.cs",
@@ -296,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "BurningRecepieSO.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\ScriptableObjects\\BurningRecepieSO.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\BurningRecepieSO.cs",
@@ -308,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "FryingRecepieSO.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\ScriptableObjects\\FryingRecepieSO.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\FryingRecepieSO.cs",
@@ -320,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "StoveCounter.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\Counters\\StoveCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\StoveCounter.cs",
@@ -332,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "TrashCounter.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\Counters\\TrashCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\TrashCounter.cs",
@@ -344,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "LookAtCamera.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\LookAtCamera.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LookAtCamera.cs",
@@ -356,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "CuttingCounterVisual.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\CuttingCounterVisual.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CuttingCounterVisual.cs",
@@ -368,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "CuttingRecepieSO.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\CuttingRecepieSO.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CuttingRecepieSO.cs",
@@ -380,19 +445,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "GameInput.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\GameInput.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameInput.cs",
               "ToolTip": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\GameInput.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameInput.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABSAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T09:05:59.82Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "ClearCounter.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\ClearCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ClearCounter.cs",
@@ -404,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "ContainerCounter.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\ContainerCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ContainerCounter.cs",
@@ -416,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
@@ -428,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "ContainerCounterVisual.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\ContainerCounterVisual.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ContainerCounterVisual.cs",
@@ -440,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "KitchenObjectScriptableObject.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\KitchenObjectScriptableObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\KitchenObjectScriptableObject.cs",
@@ -452,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "IKitchenObjectParent.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\IKitchenObjectParent.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IKitchenObjectParent.cs",
@@ -464,7 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "KitchenObject.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\KitchenObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\KitchenObject.cs",
@@ -476,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "SelectedCounterVisual.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\SelectedCounterVisual.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SelectedCounterVisual.cs",
@@ -488,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "PlayerAnimator.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KitchenChaos\\Assets\\Scripts\\PlayerAnimator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAnimator.cs",
