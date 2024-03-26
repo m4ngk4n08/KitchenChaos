@@ -7,4 +7,9 @@ public class RecepieSO : ScriptableObject {
 
     public List<KitchenObjectScriptableObject> recepieSOList;
     public string recepieName;
+
+    public List<KitchenObjectScriptableObject> KitchenObjectSOList()
+    {
+        return recepieSOList;
+    }
 }

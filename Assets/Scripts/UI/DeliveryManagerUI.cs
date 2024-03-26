@@ -9,13 +9,13 @@ public class DeliveryManagerUI : MonoBehaviour {
 
     private void Awake()
     {
-        //recipeTemplate.gameObject.SetActive(false);
+        recipeTemplate.gameObject.SetActive(false);
     }
 
     private void Start()
     {
-        DeliveryManager.Instance.OnRecipeCompleted += DeliveryManager_OnRecipeCompleted;
         DeliveryManager.Instance.OnRecipeSpawned += DeliveryManager_OnRecipeSpawned;
+        DeliveryManager.Instance.OnRecipeCompleted += DeliveryManager_OnRecipeCompleted;
 
         UpdateVisual();
     }
@@ -41,7 +41,10 @@ public class DeliveryManagerUI : MonoBehaviour {
         foreach(RecepieSO recepieSO in DeliveryManager.Instance.GetWaitingRecipeSOList())
         {
             Transform recipeTransform = Instantiate(recipeTemplate, container);
-            recipeTemplate.gameObject.SetActive(true);
+            recipeTransform.gameObject.SetActive(true);
+
+            recipeTransform.GetComponent<DeliveryManagerSingleUI>().SetRecipeSO(recepieSO);
+
         }
     }
 }

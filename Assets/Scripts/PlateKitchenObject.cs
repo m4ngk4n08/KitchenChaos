@@ -6,6 +6,7 @@ using UnityEngine;
 public class PlateKitchenObject : KitchenObject 
 {
 
+    public static event EventHandler OnAnyObjectMovedToPlate;
     public event EventHandler<OnIngredientAddedEventArgs> OnIngredientAdded;
     public class OnIngredientAddedEventArgs : EventArgs
     {
@@ -35,6 +36,8 @@ public class PlateKitchenObject : KitchenObject
         {
             kitchenObjectSO = kitchenObjectScriptableObject
         });
+
+        OnAnyObjectMovedToPlate.Invoke(this, EventArgs.Empty);
 
         return true;
     }

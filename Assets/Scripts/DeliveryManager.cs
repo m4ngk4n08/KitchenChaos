@@ -8,6 +8,8 @@ public class DeliveryManager : MonoBehaviour {
 
     public event EventHandler OnRecipeSpawned;
     public event EventHandler OnRecipeCompleted;
+    public event EventHandler OnRecipeSuccess;
+    public event EventHandler OnRecipeFailed;
 
     public static DeliveryManager Instance { get; private set; }
 
@@ -38,8 +40,6 @@ public class DeliveryManager : MonoBehaviour {
                 RecepieSO waitingRecepieSO = recipieListSO.recepieSOList[UnityEngine.Random.Range(0, recipieListSO.recepieSOList.Count)];
 
                 waitingRecepieSOList.Add(waitingRecepieSO);
-
-                Debug.Log(waitingRecepieSO.recepieName);
 
                 OnRecipeSpawned?.Invoke(this, EventArgs.Empty);
             }
@@ -83,6 +83,7 @@ public class DeliveryManager : MonoBehaviour {
                     // Player delivered the correct recipe
                     waitingRecepieSOList.RemoveAt(i);
                     OnRecipeCompleted?.Invoke(this, EventArgs.Empty);
+                    OnRecipeSuccess?.Invoke(this, EventArgs.Empty);
                     return;
                 }
             }
@@ -90,6 +91,7 @@ public class DeliveryManager : MonoBehaviour {
 
         // No matches found.
         // Player did not deliver the recepie.
+        OnRecipeFailed?.Invoke(this, EventArgs.Empty);
 
     }
 
