@@ -99,6 +99,7 @@
     <Compile Include="Assets\Scripts\Counters\CuttingCounterVisual.cs" />
     <Compile Include="Assets\Scripts\UI\DeliveryManagerUI.cs" />
     <Compile Include="Assets\Scripts\UI\ProgressBarUI.cs" />
+    <Compile Include="Assets\Scripts\KitchenGameManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
