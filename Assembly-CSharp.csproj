@@ -62,10 +62,14 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\SelectedCounterVisual.cs" />
     <Compile Include="Assets\Scripts\Counters\DeliveryCounter.cs" />
+    <Compile Include="Assets\Scripts\UI\MainMenuUI.cs" />
+    <Compile Include="Assets\Scripts\GameOverUI.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjects\RecepieSO.cs" />
     <Compile Include="Assets\Scripts\UI\DeliveryManagerSingleUI.cs" />
     <Compile Include="Assets\Scripts\Counters\BaseCounter.cs" />
     <Compile Include="Assets\Scripts\Counters\ContainerCounterVisual.cs" />
+    <Compile Include="Assets\Scripts\GameStartCountdownUI.cs" />
+    <Compile Include="Assets\Scripts\LoaderCallback.cs" />
     <Compile Include="Assets\Scripts\StoveCounterSound.cs" />
     <Compile Include="Assets\Scripts\IHasProgress.cs" />
     <Compile Include="Assets\Scripts\Counters\TrashCounter.cs" />
@@ -74,6 +78,8 @@
     <Compile Include="Assets\Scripts\LookAtCamera.cs" />
     <Compile Include="Assets\Scripts\Counters\ClearCounter.cs" />
     <Compile Include="Assets\Scripts\PlateCompleteVisual.cs" />
+    <Compile Include="Assets\Scripts\UI\GamePlayingClockUI.cs" />
+    <Compile Include="Assets\Scripts\Loader.cs" />
     <Compile Include="Assets\Scripts\Counters\StoveCounter.cs" />
     <Compile Include="Assets\Scripts\PlayerSounds.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
